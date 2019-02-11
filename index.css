@@ -1,0 +1,13 @@
+.center {
+  text-align:center;
+}
+
+#logo {
+  height:240px;
+  width:400px;
+  padding:3px;
+}
+
+body{
+  background-color: #212529 !important;
+}
